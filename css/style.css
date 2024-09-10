@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+div {
+  background-color: orange;
+}
+div h1 {
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
